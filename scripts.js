@@ -1,7 +1,7 @@
 //Creat api object
 const api ={ 
   key: "3148acd8516a4f49b96899996c540f4f",
-  base: "http://api.openweathermap.org/data/2.5/"
+  base: "https://api.openweathermap.org/data/2.5/"
 }
 
 //function for Button Click
